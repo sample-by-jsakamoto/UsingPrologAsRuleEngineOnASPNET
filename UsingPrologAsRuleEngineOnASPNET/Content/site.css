@@ -1,0 +1,18 @@
+﻿input[type=number] {
+    text-align: right;
+}
+
+textarea.rule {
+    font-family: Consolas, monospace;
+    border: solid 1px #ccc;
+    padding: 0.5rem !important;
+    font-size:0.9rem;
+}
+
+.input-field.wealthy_parent {
+    padding-bottom: 1rem;
+}
+
+input::-ms-clear {
+    display: none;
+}
