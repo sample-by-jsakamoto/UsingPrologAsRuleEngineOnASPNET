@@ -1,0 +1,8 @@
+{
+  "name": "UsePrologAsRuleEngineOnASPNET",
+  "buildpacks": [
+    {
+      "url": "https://github.com/friism/heroku-buildpack-mono"
+    }
+  ]
+}
